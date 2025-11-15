@@ -1,3 +1,3 @@
-# privGabrifm00
+# PROYECTS STORE
 
-Aquí guardaré info privada y assets para usar en los repos públicos
+Public warehouse where all types of assets are stored to clear the main ones
